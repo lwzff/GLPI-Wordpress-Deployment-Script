@@ -3,7 +3,7 @@
 
 Here is a quick **shell** script to "deploy" GLPI *nor* Wordpress.
 
-
+⚠️ This script was made for a school project, so don't be afraid about the shit code I wrote, it's working 🙂👍
 
 
 ## Deployment
