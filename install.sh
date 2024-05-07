@@ -2,7 +2,7 @@
 ######  MADE BY @ArthurCNS
 ######  03/27/2023 (mm-dd-yyyy)
 ######
-
+#azzaa
 # Configuration code
 
 CONF_WEB_DOMAIN_NAME="my-domain.xyz"
